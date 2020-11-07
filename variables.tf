@@ -10,7 +10,7 @@ variable "zone" {
 
 variable "project" {
     description = "Projeto do GCP"
-    default = "sd-infraestrutura"
+    default = "sdsuporte"
 }
 
 variable "machinename" {
